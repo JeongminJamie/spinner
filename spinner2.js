@@ -1,4 +1,4 @@
-const start = ['\r|   ', '\r/   ', '\r-   ', '\r\\   ', '\r-   ', '\r\\   ', '\r|   '];
+const start = ['\r|   ', '\r/   ', '\r-   ', '\r\\   ', '\r|   '];
 
 let time = 100;
 for (let element of start) {
